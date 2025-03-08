@@ -1,7 +1,8 @@
 ---
-title: "kkluv"
-date: 2022-04-10T16:50:28+08:00
-categories : [ "kkluv" ]
+title: kkluv
+subtitle: kkluv
+date: 2025-03-08
+tags: ["kkluv"]
 ---
 
 [00:00.000]作词 : MULA SAKEE/kkluv  
@@ -12,6 +13,7 @@ categories : [ "kkluv" ]
 [00:14.120]到底 you gon’ spill on who baby  
 [00:17.060]When you say that you luv me I luv you too baby  
 [00:20.090]重生的王者 I cannot lose  
+<!--more-->
 [00:24.110]Shawty cuz only you  
 [00:28.790]You got’em excuses baby   \n \n\n\n\n\n（（你有那些借口）  
 [00:30.410]Shawty cuz only you  
