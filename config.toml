@@ -1,10 +1,7 @@
 baseURL = 'https://juicebar-demo.add1.dev/'
 languageCode = 'en'
 # languageCode = 'zh-CN'
-[module]
-  [[module.imports]]
-    path = "./themes/JuiceBar"
-
+theme = "JuiceBar"
 title = "JuiceBar"
 
 [params]
