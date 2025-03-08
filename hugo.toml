@@ -1,4 +1,4 @@
-baseurl = "https://shuoyin03.github.io"
+baseurl = "https://lrc-beta.vercel.app"
 DefaultContentLanguage = "en"
 title = "Beautiful Hugo"
 # Using theme as git submodule
